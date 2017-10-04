@@ -19,6 +19,12 @@
 	box-sizing:border-box;
 	max-width: 100%;
 }
+
+@font-face{
+	font-family: "Squealer"
+	src: url('/assets/squealer.ttf') format("truetype");
+}
+
 .request_msg{
 	margin:2% 5% 2% 5%;
 }
